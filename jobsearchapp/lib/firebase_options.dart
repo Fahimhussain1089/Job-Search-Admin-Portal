@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDHVmzi79zE-PqxvVJ-a_JaJpXAd2seUUM',
+    apiKey: '',//connect your firebase APIkey
     appId: '1:89813258371:web:bc54b960c55cb7debf0bb6',
     messagingSenderId: '89813258371',
     projectId: 'jobsearchapp-b29b6',
@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBMkYNg-BFJqpTyPdnnOGLJef3wNAj1w5U',
+    apiKey: '',//connect your firebase APIkey
     appId: '1:89813258371:android:c6fc55d899524af0bf0bb6',
     messagingSenderId: '89813258371',
     projectId: 'jobsearchapp-b29b6',
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBloKt_4iRoxWi-PKKGa0xnzdCGDaXYxeU',
+    apiKey: '',//connect your firebase APIkey
     appId: '1:89813258371:ios:9b7f360dc88d9f3abf0bb6',
     messagingSenderId: '89813258371',
     projectId: 'jobsearchapp-b29b6',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBloKt_4iRoxWi-PKKGa0xnzdCGDaXYxeU',
+    apiKey: '',//connect your firebase APIkey
     appId: '1:89813258371:ios:963b15477f6c7229bf0bb6',
     messagingSenderId: '89813258371',
     projectId: 'jobsearchapp-b29b6',
